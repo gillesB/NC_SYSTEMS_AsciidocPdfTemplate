@@ -1,5 +1,5 @@
 # NCS Article
-Axel Fix <axel.fix@nc-systems.de>; Gilles Baatz <gilles.baatz@nc-systems.de>
+Axel Fix <axel.fix AT nc-systems.de>; Gilles Baatz <gilles.baatz AT nc-systems.de>
 0.1, 01.01.2022
 :pdf-themesdir: resources/themes
 :pdf-theme: basic
